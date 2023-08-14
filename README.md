@@ -1,1 +1,1 @@
-# hra_sirky-matches_game_CZ
+# Hra sirky / Matches game (C++)
