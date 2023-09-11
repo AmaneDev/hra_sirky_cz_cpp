@@ -1,1 +1,1 @@
-# Hra sirky / Matches game (C++)
+# Hra se sirky (C++)
